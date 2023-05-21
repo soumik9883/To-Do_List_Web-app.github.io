@@ -1,2 +1,2 @@
-# To-Do_List_Web-app.github.io
+# To-Do_List_Web-app
 In this Project of To-Do List Web-App I have basicaly build a very common and natural looking web view page of To-Do List web-app. For this particular project I specially used HTML,CSS and JS. A To-do lists are basically a list of tasks that an individual needs to complete or accomplish. And a user can easily add his/hTasks are typically put in order by priority or importance.
